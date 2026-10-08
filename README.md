@@ -131,11 +131,6 @@ The experiments were tracked and compared using the MLflow UI.
 
 The MLflow experiment contains the parameters, metrics, and trained model artifacts for the three runs.
 
-### Experiment Results Screenshot
-
-![MLflow Experiment Results](mlflow-results.png)
-
----
 
 ## 8. Project Structure
 
